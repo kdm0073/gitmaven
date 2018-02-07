@@ -7,4 +7,7 @@ public class UserController {
 	public void delUser(){
 		System.out.println("delUser");
 	}
+	public void updateUser(){
+		System.out.println("updateUser");
+	}
 }
